@@ -1,0 +1,7 @@
+organization=javid141moazan
+projectKey=universita
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.17608
+dashboardUrl=https://sonarcloud.io/dashboard?id=universita
+ceTaskId=AXfPYi29uz20hl7gsg0y
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXfPYi29uz20hl7gsg0y

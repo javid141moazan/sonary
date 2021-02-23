@@ -7,4 +7,4 @@ check code coverage of your application using jacoco
 
 
 
-https://travis-ci.org/javid141moazan/sonary.svg?branch=master
+[![Build Status](https://travis-ci.org/javid141moazan/sonary.svg?branch=master)](https://travis-ci.org/javid141moazan/sonary)
